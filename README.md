@@ -29,21 +29,5 @@ A beautiful and functional local music player built with Flutter. This project w
 * **Metadata:** [audio_metadata_reader](https://pub.dev/packages/audio_metadata_reader) - To extract album art, titles, and artist names.
 * **Path Manipulation:** [path](https://pub.dev/packages/path) - For filename and extension handling.
 
-## 📂 Project Structure
 
-The project follows a clean architecture separating UI, Logic, and Models:
 
-```text
-lib/
-├── model/
-│   └── audio_file_model.dart    # Data model for audio files
-├── Screen/
-│   ├── home_screen.dart         # Main grid view & file scanning
-│   └── player_screen.dart       # Now Playing screen with controls
-├── services/
-│   └── audio_service.dart       # Wrapper around just_audio logic
-├── widgets/
-│   ├── album_widget.dart        # Album art container with shadow
-│   ├── play_pause_button.dart   # Animated toggle button
-│   └── seek_bar_widget.dart     # Custom slider for audio seeking
-└── main.dart                    # Entry point & Theme config
