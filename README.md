@@ -1,4 +1,4 @@
-# Local Music Player 🎵
+# Music Player 🎵
 
 A beautiful and functional local music player built with Flutter. This project was developed as part of a Flutter Internship Assignment to demonstrate audio playback capabilities, file handling, and UI design.
 
@@ -28,6 +28,7 @@ A beautiful and functional local music player built with Flutter. This project w
 * **Permissions:** [permission_handler](https://pub.dev/packages/permission_handler) - To request storage/audio access.
 * **Metadata:** [audio_metadata_reader](https://pub.dev/packages/audio_metadata_reader) - To extract album art, titles, and artist names.
 * **Path Manipulation:** [path](https://pub.dev/packages/path) - For filename and extension handling.
+
 
 
 
