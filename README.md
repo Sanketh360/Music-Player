@@ -34,3 +34,5 @@ A beautiful and functional local music player built with Flutter. This project w
 ![WhatsApp Image 2025-12-03 at 20 51 34_59e971c0](https://github.com/user-attachments/assets/d2534374-89c4-4e13-a595-b8184a492d0f)
 
 
+![WhatsApp Image 2025-12-03 at 20 52 09_11289f2d](https://github.com/user-attachments/assets/76e0ae53-50ec-48b0-897b-223b5b27e28b)
+
